@@ -1,5 +1,5 @@
-echo "Flask==3.0.0
+Flask==3.0.0
 flask-cors==4.0.0
 requests==2.32.0
 twilio==9.2.0
-python-dotenv==1.0.1" > requirements.txt
+python-dotenv==1.0.1
